@@ -7,3 +7,14 @@ You've learned a lot about web development so far. I want you to take a moment t
 ---
 
 Your response goes here!
+1. What new skills have you learned?
+- How to create superscripts and strike throughs
+
+2. What has been easy?
+- Creating single elements
+
+3. What has been difficult?
+- Creating a mock up to the exact detail
+
+4. How have you used the problem solving strategies from the first project to overcome challenges so far?
+I researched how to create superscripts and strike throughs using MDN and Google.
